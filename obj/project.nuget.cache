@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "LCzdu7akixn7/CnY7usI9mWXNrz7AVvlVqaZae6m99NvI41pfie+0xX0sAPoAzv6eI1t1sNga7rkyYB4t4vhvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristian Damsa\\source\\repos\\PlanITpokerPOM\\PlanITpokerPOM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\selenium.chrome.webdriver\\83.0.0\\selenium.chrome.webdriver.83.0.0.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\selenium.internetexplorer.webdriver\\3.150.1\\selenium.internetexplorer.webdriver.3.150.1.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\selenium.webdriver.chromedriver\\83.0.4103.3900\\selenium.webdriver.chromedriver.83.0.4103.3900.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.26.0.1\\selenium.webdriver.geckodriver.0.26.0.1.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "C:\\Users\\Cristian Damsa\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.2\\xunit.runner.visualstudio.2.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

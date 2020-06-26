@@ -1,0 +1,13 @@
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\bin\Debug\netstandard2.0\PlanITpokerPOM.deps.json
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\bin\Debug\netstandard2.0\PlanITpokerPOM.dll
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\obj\Debug\netstandard2.0\PlanITpokerPOM.csprojAssemblyReference.cache
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\obj\Debug\netstandard2.0\PlanITpokerPOM.AssemblyInfoInputs.cache
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\obj\Debug\netstandard2.0\PlanITpokerPOM.AssemblyInfo.cs
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\bin\Debug\netstandard2.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\bin\Debug\netstandard2.0\xunit.runner.reporters.net452.dll
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\bin\Debug\netstandard2.0\xunit.runner.utility.net452.dll
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\bin\Debug\netstandard2.0\xunit.abstractions.dll
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\bin\Debug\netstandard2.0\PlanITpokerPOM.pdb
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\obj\Debug\netstandard2.0\PlanITpokerPOM.dll
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\obj\Debug\netstandard2.0\PlanITpokerPOM.pdb
+C:\Users\Cristian Damsa\source\repos\PlanITpokerPOM\obj\Debug\netstandard2.0\PlanITpokerPOM.csproj.CoreCompileInputs.cache
